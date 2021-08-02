@@ -1,0 +1,1 @@
+export const copy_msg = 'password copied to clipboard'
